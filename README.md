@@ -1,14 +1,14 @@
-Elektronički sustav kompanije
-📋 Opis projekta
-Ovaj projekt uključuje izradu baze podataka za elektronički sustav jedne kompanije. U okviru baze implementirani su:
-✅ Model baze podataka
-✅ Indeksi za optimizaciju pretrage
-✅ Pogledi (Views) za filtriranje podataka
-✅ Pohranjene procedure za automatizaciju zadataka
-✅ Funkcija za specifične izračune
+Elektronički sustav kompanije  
+📋 Opis projekta  
+Ovaj projekt uključuje izradu baze podataka za elektronički sustav jedne kompanije. U okviru baze implementirani su:  
+✅ Model baze podataka  
+✅ Indeksi za optimizaciju pretrage  
+✅ Pogledi (Views) za filtriranje podataka  
+✅ Pohranjene procedure za automatizaciju zadataka  
+✅ Funkcija za specifične izračune  
 
-🏗️ Struktura baze podataka
-Baza podataka sastoji se od sljedećih ključnih tablica:
+🏗️ Struktura baze podataka  
+Baza podataka sastoji se od sljedećih ključnih tablica:  
 
 Korisnici (ID, ime, prezime, datum_rodjenja...)
 poruke (ID, poruka, datum_poruke...)
